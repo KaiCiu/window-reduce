@@ -12,3 +12,6 @@ topics:
   - name: raw-temp-data
     configuration:
       partitions: 1
+  - name: agg-temperature
+    configuration:
+      partitions: 1
