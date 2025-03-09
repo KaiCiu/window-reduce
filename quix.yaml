@@ -29,3 +29,4 @@ topics:
   - name: agg-temperature
     configuration:
       partitions: 1
+  - name: f1-data
